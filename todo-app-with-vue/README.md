@@ -34,8 +34,8 @@ A clean, responsive Todo List application built with **Vue 3**, **Vuetify**, and
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/vue-todo-app.git
-cd vue-todo-app
+git clone https://github.com/your-username/TO-DO-App.git
+cd TO-DO-App/todo-app-with-vue
 
 # 2. Install dependencies
 npm install
